@@ -1,0 +1,1 @@
+Aplicativo sencillo para la gestion de tareas usando Python para el Backend y Angular2 para el Frontend
